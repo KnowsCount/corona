@@ -17,3 +17,10 @@ Biological systems are fundamentally [information processing systems](https://en
 | [genome analysis](https://en.wikipedia.org/wiki/Genomics#Genome_analysis) | [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis) |                                                              |
 | [molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics)simulations of [protein folding](https://en.wikipedia.org/wiki/Protein_folding) | [dynamic analysis](https://en.wikipedia.org/wiki/Dynamic_program_analysis) | Simulation doesn't seem to work yet. Constrained by tooling and compute. |
 | no equivalent                                                | [execution](https://en.wikipedia.org/wiki/Execution_(computing)) | We are reverse engineering a CAD format. Runs more like FPGA code, all at once. No serial execution. (What are the FPGA reverse engineering tools?) |
+
+---
+
+Some links<br>
+https://en.wikipedia.org/wiki/Base_pair<br>
+https://www.soe.ucsc.edu/news/ucsc-genome-browser-posts-coronavirus-genome or https://www.eurekalert.org/pub_releases/2020-02/uoc--ugb020720.php<br>
+https://www.ncbi.nlm.nih.gov/nuccore/NC_045512
