@@ -41,6 +41,7 @@ As I have previously stated, we are making some progress now by making some dict
 [Base Pair](https://en.wikipedia.org/wiki/Base_pair)
 [Genome](https://www.soe.ucsc.edu/news/ucsc-genome-browser-posts-coronavirus-genome) or [Genome2](https://www.eurekalert.org/pub_releases/2020-02/uoc--ugb020720.php)
 [NCBI stuff](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512)
+#### you should read this [article](./masks.md) about why masks dont really work..
 
 ### Biology vs. software
 
