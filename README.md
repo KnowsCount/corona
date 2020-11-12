@@ -1,3 +1,50 @@
+# Kill corona
+
+### 📖 Story
+
+I recently came up with the idea to 'reverse engineer' corona as I read articles done by George Hotz giving me some inspirations on it (he gave analogies between computer terminology & biology). 
+Now realising the fact that it is too hard for me only to do all research, I found @Caliton-Universe, who is very good at science, to do some research for me, and is currently my partner. 
+
+**Now to the topic**
+
+----
+
+### 📌  The First Analogy
+
+Biological systems are fundamentally information processing systems. Whilst not a perfect analogy, software provides a useful framework for thinking about biology. 
+
+### 📑 Info
+
+- This is currently written in Python. Currently I merely have some dictionaries made in order to decode the corona DNA series, Proteins, RNAs, and such. However, more investigations & thoughts (that I have no idea at all on) will be done in order to have me some ideas. 
+- I am not at all expecting a success. Nevertheless, it will be happy to me if I can contribute even a tiny bit to the human healthcare. 
+- I will upload all codes via [GitHub](https://www.github.com/KnowsCount/corona) in no longer than a month. Taking the suggestions given by @Caliton-Universe (that we shall not make it open-sourced) & Mrs Reed (that we shall at least leave our names), I give it a MIT license. 
+- This Project, along with [MIT licensing](https://zh.wikipedia.org/wiki/MIT許可證) for the code, also is licensed [CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh). 
+
+As I have previously stated, we are making some progress now by making some dictionaries that decodes the biological series (not sure if named so). 
+
+### 📈 Progress
+
+- BP (Base Pairs);
+- Genetic Translation; 
+- Proteins; 
+- Codons; 
+- Maybe a conspiracy from NCBI (just kidding... It might be my own mistake writing the code); 
+
+### 🎉 Wishes
+
+- We obviously want one to give suggestions if one can; 
+- To maybe join the development if can work well; 
+- To like the project... and maybe give a star in future GitHub repository.   
+
+### 🔗 Useful Links
+
+[Base Pair](https://en.wikipedia.org/wiki/Base_pair)
+[Genome](https://www.soe.ucsc.edu/news/ucsc-genome-browser-posts-coronavirus-genome) or [Genome2](https://www.eurekalert.org/pub_releases/2020-02/uoc--ugb020720.php)
+[NCBI stuff](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512)
+
+----
+👍 Like the post if you like the idea, & pls do give suggestions or thoughts below if you have some. Cheers!
+
 ### Biology vs. software
 
 Biological systems are fundamentally [information processing systems](https://en.wikipedia.org/wiki/Information_processor). While not a perfect analogy, software provides a useful framework for thinking about biology. The table below provides a rough outline of this analogy. 
