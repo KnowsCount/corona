@@ -42,9 +42,6 @@ As I have previously stated, we are making some progress now by making some dict
 [Genome](https://www.soe.ucsc.edu/news/ucsc-genome-browser-posts-coronavirus-genome) or [Genome2](https://www.eurekalert.org/pub_releases/2020-02/uoc--ugb020720.php)
 [NCBI stuff](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512)
 
-----
-👍 Like the post if you like the idea, & pls do give suggestions or thoughts below if you have some. Cheers!
-
 ### Biology vs. software
 
 Biological systems are fundamentally [information processing systems](https://en.wikipedia.org/wiki/Information_processor). While not a perfect analogy, software provides a useful framework for thinking about biology. The table below provides a rough outline of this analogy. 
